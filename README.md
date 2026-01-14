@@ -1,4 +1,5 @@
-👋 Hi, I’m Sahil Patel
+👋 Hi, I’m 
+<b>Sahil Patel</b>
 Software Engineer (Developer · Creator · Solopreneur)
 
 I have 1.5+ years of hands-on (non-professional) experience building pixel-perfect, responsive, and user-focused applications. I primarily focus on backend development, taking ideas from concept to production-ready systems and collaborating closely with frontend developers to ship reliable products.
