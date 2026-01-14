@@ -14,7 +14,7 @@ Exploring AI-powered tools for founders and small teams
 Sharing dev insights and no-BS opinions on tech & career growth
 
 🛠 Tech Stack
-<p align="left"> <img src="https://skillicons.dev/icons?i=golang,javascript,react,express,nodejs,postgresql,html,css,git,github" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=golang,javascript,react,express,nodejs,postgresql,mongodb,html,css,git,github" /> </p>
 📌 Featured Projects
 🔍 Bing Web Crawler
 
