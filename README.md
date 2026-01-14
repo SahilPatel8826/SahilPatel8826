@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**SahilPatel8826/SahilPatel8826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...👋 Hi, I’m Sahil Patel
+👋 Hi, I’m Sahil Patel
 Software Engineer (Developer · Creator · Solopreneur)
 
 I have 1.5+ years of hands-on (non-professional) experience building pixel-perfect, responsive, and user-focused applications. I focus mainly on backend development, taking ideas from concept to working systems, and collaborating closely with frontend developers to ship reliable, real-world products.
