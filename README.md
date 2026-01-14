@@ -8,11 +8,15 @@ I specialize in Golang and JavaScript, working with Fiber, Express, and React. I
 
 <h3>🚀 What I’m Working On</h3>
 
-Building and scaling SaaS & mobile-first products
+-Building production-ready backend systems for early-stage startups
 
-Exploring AI-powered tools for founders and small teams
+-Turning ideas into working APIs and services using Golang & JavaScript
 
-Sharing developer insights and no-BS opinions on tech & career growth
+-Designing simple, scalable architectures that ship fast (no over-engineering)
+
+-Powering SaaS & mobile-first products with reliable backend logic
+
+-Improving performance, cost-efficiency, and developer experience
 
 <h3>🛠 Tech Stack</h3>
 
