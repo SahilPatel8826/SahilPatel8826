@@ -6,7 +6,7 @@ I have 1.5+ years of hands-on (non-professional) experience building pixel-perfe
 
 I specialize in Golang and JavaScript, working with Fiber, Express, and React. I care deeply about clean architecture, performance, and building systems that prioritize shipping over hype.
 
-🚀 What I’m Working On
+<h4>🚀 What I’m Working On</h4>
 
 Building and scaling SaaS & mobile-first products
 
@@ -14,11 +14,11 @@ Exploring AI-powered tools for founders and small teams
 
 Sharing developer insights and no-BS opinions on tech & career growth
 
-🛠 Tech Stack
+<h4>🛠 Tech Stack</h4>
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=golang,javascript,react,express,nodejs,postgresql,html,css,git,github" /> </p>
 
-📌 Featured Projects
+<h4>📌 Featured Projects</h4>
 
 🔍 Bing Web Crawler
 High-performance web crawler focused on concurrency, scalability, and clean backend design.
@@ -29,11 +29,7 @@ A lightweight database built from scratch to understand storage engines, indexin
 🌾 Cropozone
 A full-stack platform for crop buying, selling, and transportation, focused on backend logic, data flow, and scalability.
 
-📊 GitHub Stats
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=SahilPatel8826&show_icons=true&theme=github_dark&hide_border=true" /> </p> <p align="left"> <img src="https://streak-stats.demolab.com?user=SahilPatel8826&theme=github-dark&hide_border=true" /> </p>
-
-🔗 Connect With Me
+<h4>🔗 Connect With Me</h4>
 
 📧 Email: sahilpatel8826@gmail.com
 
